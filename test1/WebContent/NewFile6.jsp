@@ -6,7 +6,10 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>고침-test_branch
+<<<<<<< test_branch
+=======
+<body>고침 -마스터
+>>>>>>> master
 
 </body>
 </html>
