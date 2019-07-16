@@ -1,3 +1,4 @@
+
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -6,10 +7,9 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<<<<<<< test_branch
-=======
 <body>고침 -마스터
->>>>>>> master
+
 
 </body>
+
 </html>
